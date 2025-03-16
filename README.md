@@ -1,5 +1,5 @@
 # Solving the Pick-and-Place Environment in Robosuite
-<img src="https://robosuite.ai/docs/images/env_pick_place.png" align="middle" width="100%"/>
+<img src="./.assets/img/env_pick_place.png" align="middle" width="100%"/>
 
 Welcome to the "Project Assignment: Solving the Pick-and-Place Environment in Robosuite" repository! This repository is intended to allow for the replication of our project results and documents its progress including insights as well as tests.
 
